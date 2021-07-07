@@ -1,8 +1,9 @@
-# DJango-CRUD-operations-sample
+# DJango-CRUD-operations-sample for educational purpose
 
 Get Started:
 
 #In environment - Open IDE Terminal (Eg: Visual Studio Code) and move to project folder
+
 #If DJango is already installed, open requirements.txt and comment 'Django==3.2.4' line and execute below statements on terminal (make sure that the path is locating to project folder)
 
 $ pip install -r requirements.txt
