@@ -1,4 +1,4 @@
-# DJango-CRUD-operations-sample for educational purpose
+# DJango-CRUD-operations-sample code for educational purpose
 
 Get Started:
 
